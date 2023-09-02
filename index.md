@@ -39,8 +39,8 @@ Having trouble with Pages? Check out our [documentation](https://help.github.com
 
 # Chandan-Lokesh First CS193 Homework
 
-- Interactive classroom-
-- Teachers (or just students) having a good sense of humour-
-- No pressure-
-- adequate HW completion time-
+- Interactive classroom
+- Teachers (or just students) having a good sense of humour
+- No pressure
+- adequate HW completion time
 
